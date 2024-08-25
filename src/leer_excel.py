@@ -13,3 +13,5 @@ print(df.info())
 
 # Opcional: Imprimir algunas estadísticas descriptivas
 print(df.describe(include='all'))
+#
+# Nuevo texto de ej para rama nueva para commit 5
